@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.csbconcepts.com/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/case-studies</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/blog</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Pillar Article -->
+  <url>
+    <loc>https://www.csbconcepts.com/blog/ai-amazon-brand-management-guide</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- Week 1 Articles -->
+  <url>
+    <loc>https://www.csbconcepts.com/blog/ai-vs-traditional-amazon-ppc</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/blog/supplement-brands-ai-amazon</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/blog/how-to-choose-ai-amazon-agency</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/blog/amazon-roas-benchmarks-ai-vs-manual</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/blog/ai-revolutionizing-amazon-advertising</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/blog/cost-of-not-using-ai-amazon</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Week 2 Articles -->
+  <url>
+    <loc>https://www.csbconcepts.com/blog/amazon-ppc-dayparting-ai</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/blog/ai-amazon-listing-optimization</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/blog/amazon-dsp-advertising-ai</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Week 3 Articles -->
+  <url>
+    <loc>https://www.csbconcepts.com/blog/amazon-brand-registry-ai-growth</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/blog/ai-prevents-amazon-stockouts</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/blog/best-amazon-advertising-strategy-new-products</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Week 4 Articles -->
+  <url>
+    <loc>https://www.csbconcepts.com/blog/amazon-subscribe-save-ai</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/blog/amazon-a-plus-content-converts</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/blog/why-amazon-agencies-fail</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Individual Case Studies -->
+  <url>
+    <loc>https://www.csbconcepts.com/case-studies/supplement-brand-category-leader</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/case-studies/consumer-brand-38k-to-100k</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/case-studies/beauty-ppc-rebuild</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/case-studies/health-product-launch</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/case-studies/fitness-brand-500k-to-1m</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/case-studies/food-brand-zero-to-10k</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Legal -->
+  <url>
+    <loc>https://www.csbconcepts.com/privacy</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/terms</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/cookies</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+</urlset>

@@ -1,0 +1,41 @@
+{
+  "rewrites": [
+    { "source": "/case-studies", "destination": "/case-studies.html" },
+    { "source": "/casestudies", "destination": "/case-studies.html" },
+    { "source": "/privacy", "destination": "/privacy.html" },
+    { "source": "/terms", "destination": "/terms.html" },
+    { "source": "/cookies", "destination": "/cookies.html" },
+    { "source": "/blog", "destination": "/blog.html" },
+    { "source": "/blog/ai-amazon-brand-management-guide", "destination": "/blog/ai-amazon-brand-management-guide.html" },
+    { "source": "/blog/ai-vs-traditional-amazon-ppc", "destination": "/blog/ai-vs-traditional-amazon-ppc.html" },
+    { "source": "/blog/supplement-brands-ai-amazon", "destination": "/blog/supplement-brands-ai-amazon.html" },
+    { "source": "/blog/how-to-choose-ai-amazon-agency", "destination": "/blog/how-to-choose-ai-amazon-agency.html" },
+    { "source": "/blog/amazon-roas-benchmarks-ai-vs-manual", "destination": "/blog/amazon-roas-benchmarks-ai-vs-manual.html" },
+    { "source": "/blog/ai-revolutionizing-amazon-advertising", "destination": "/blog/ai-revolutionizing-amazon-advertising.html" },
+    { "source": "/blog/cost-of-not-using-ai-amazon", "destination": "/blog/cost-of-not-using-ai-amazon.html" },
+    { "source": "/blog/amazon-ppc-dayparting-ai", "destination": "/blog/amazon-ppc-dayparting-ai.html" },
+    { "source": "/blog/ai-amazon-listing-optimization", "destination": "/blog/ai-amazon-listing-optimization.html" },
+    { "source": "/blog/amazon-dsp-advertising-ai", "destination": "/blog/amazon-dsp-advertising-ai.html" },
+    { "source": "/blog/amazon-brand-registry-ai-growth", "destination": "/blog/amazon-brand-registry-ai-growth.html" },
+    { "source": "/blog/ai-prevents-amazon-stockouts", "destination": "/blog/ai-prevents-amazon-stockouts.html" },
+    { "source": "/blog/best-amazon-advertising-strategy-new-products", "destination": "/blog/best-amazon-advertising-strategy-new-products.html" },
+    { "source": "/blog/amazon-subscribe-save-ai", "destination": "/blog/amazon-subscribe-save-ai.html" },
+    { "source": "/blog/amazon-a-plus-content-converts", "destination": "/blog/amazon-a-plus-content-converts.html" },
+    { "source": "/blog/why-amazon-agencies-fail", "destination": "/blog/why-amazon-agencies-fail.html" },
+    { "source": "/case-studies/supplement-brand-category-leader", "destination": "/case-studies/supplement-brand-category-leader.html" },
+    { "source": "/case-studies/consumer-brand-38k-to-100k", "destination": "/case-studies/consumer-brand-38k-to-100k.html" },
+    { "source": "/case-studies/beauty-ppc-rebuild", "destination": "/case-studies/beauty-ppc-rebuild.html" },
+    { "source": "/case-studies/health-product-launch", "destination": "/case-studies/health-product-launch.html" },
+    { "source": "/case-studies/fitness-brand-500k-to-1m", "destination": "/case-studies/fitness-brand-500k-to-1m.html" },
+    { "source": "/case-studies/food-brand-zero-to-10k", "destination": "/case-studies/food-brand-zero-to-10k.html" },
+    { "source": "/booking", "destination": "https://book.csbconcepts.com" }
+  ],
+  "redirects": [
+    { "source": "/case-studies.html", "destination": "/case-studies", "permanent": true },
+    { "source": "/privacy.html", "destination": "/privacy", "permanent": true },
+    { "source": "/terms.html", "destination": "/terms", "permanent": true },
+    { "source": "/cookies.html", "destination": "/cookies", "permanent": true },
+    { "source": "/blog.html", "destination": "/blog", "permanent": true }
+  ],
+  "cleanUrls": true
+}
