@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Expert insights on AI-powered Amazon growth strategies. Learn how artificial intelligence is transforming PPC management, listing optimization, and brand scaling on Amazon.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://www.csbconcepts.com/blog">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Blog — AI Amazon Insights | CSB Concepts">
+<meta property="og:description" content="Expert insights on AI-powered Amazon growth strategies. Learn how artificial intelligence is transforming PPC management, listing optimization, and brand scaling on Amazon.">
+<meta property="og:url" content="https://www.csbconcepts.com/blog">
+<meta property="og:image" content="https://www.csbconcepts.com/logos/csb-logo.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Blog — AI Amazon Insights | CSB Concepts">
+<meta name="twitter:description" content="Expert insights on AI-powered Amazon growth strategies. Learn how artificial intelligence is transforming PPC management, listing optimization, and brand scaling on Amazon.">
+<meta name="twitter:image" content="https://www.csbconcepts.com/logos/csb-logo.jpg">
+<link rel="icon" type="image/jpeg" href="logos/csb-favicon.jpeg">
+<title>Blog — AI Amazon Insights | CSB Concepts</title>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "url": "https://www.csbconcepts.com/blog",
+      "name": "Blog — AI Amazon Insights | CSB Concepts",
+      "description": "Expert insights on AI-powered Amazon growth strategies. Learn how artificial intelligence is transforming PPC management, listing optimization, and brand scaling on Amazon.",
+      "isPartOf": { "@id": "https://www.csbconcepts.com/#website" }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.csbconcepts.com/" },
+        { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://www.csbconcepts.com/blog" }
+      ]
+    }
+  ]
+}
+</script>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+:root{
+  --bg:#0B0D14;--bg2:#0f1220;--card:#111827;
+  --or:#F97316;--ob:#FDBA74;--gr:#34D399;--go:#F59E0B;--gd:rgba(245,158,11,0.12);--gb:#FBBF24;--wh:#fff;
+  --mu:rgba(255,255,255,.55);--bor:rgba(255,140,50,.18);
+  --dim:rgba(255,255,255,.06);
+}
+body{font-family:'Inter',sans-serif;background:var(--bg);color:var(--wh);overflow-x:hidden;font-size:15px;line-height:1.6;-webkit-font-smoothing:antialiased}
+a:focus-visible{outline:2px solid var(--or);outline-offset:2px;border-radius:4px}
+
+/* NAV */
+nav{position:sticky;top:0;z-index:100;background:rgba(11,13,20,.94);backdrop-filter:blur(20px);border-bottom:1px solid var(--bor)}
+.nav-in{max-width:1280px;margin:0 auto;padding:0 40px;height:62px;display:flex;align-items:center;justify-content:space-between}
+.logo{display:flex;align-items:center;gap:9px;text-decoration:none}
+.nav-links{display:flex;align-items:center;gap:24px}
+.nav-links a{color:var(--mu);font-size:13px;font-weight:500;text-decoration:none;transition:color .2s}
+.nav-links a:hover{color:#fff}
+.nav-links a.active{color:#fff;font-weight:700}
+.nav-cta{background:linear-gradient(135deg,#F97316,#c2410c)!important;color:#fff!important;padding:8px 18px;border-radius:8px;font-size:13px!important;font-weight:700!important;box-shadow:0 0 20px rgba(249,115,22,.4);transition:all .2s!important;text-decoration:none}
+.nav-cta:hover{transform:translateY(-1px)!important;box-shadow:0 6px 28px rgba(249,115,22,.6)!important}
+
+/* HERO */
+.hero{padding:80px 32px 60px;text-align:center;position:relative;overflow:hidden}
+.hero::before{content:'';position:absolute;inset:0;background:radial-gradient(ellipse 60% 60% at 50% 20%,rgba(249,115,22,.12) 0%,transparent 70%);pointer-events:none}
+.hero-ey{display:inline-flex;align-items:center;gap:6px;background:rgba(249,115,22,.1);border:1px solid rgba(249,115,22,.25);border-radius:100px;padding:5px 14px;font-size:11px;font-weight:700;color:var(--or);letter-spacing:.08em;text-transform:uppercase;margin-bottom:20px}
+.hero h1{font-size:clamp(32px,4vw,56px);font-weight:900;letter-spacing:-2px;line-height:1.05;margin-bottom:16px}
+.hero h1 em{font-style:normal;background:linear-gradient(135deg,#F97316,#fb923c);-webkit-background-clip:text;background-clip:text;color:transparent}
+.hero-sub{font-size:16px;color:var(--mu);max-width:560px;margin:0 auto;line-height:1.7}
+
+/* BLOG GRID */
+.blog-grid{max-width:1100px;margin:0 auto;padding:0 32px 80px}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}
+
+/* FEATURED CARD */
+.card-featured{grid-column:1/-1;position:relative;border-radius:16px;overflow:hidden;background:var(--card);border:1px solid transparent;transition:transform .3s,box-shadow .3s}
+.card-featured::before{content:'';position:absolute;inset:-1px;border-radius:17px;padding:1px;background:linear-gradient(135deg,var(--or),var(--ob),var(--or));-webkit-mask:linear-gradient(#fff 0 0) content-box,linear-gradient(#fff 0 0);-webkit-mask-composite:xor;mask-composite:exclude;pointer-events:none;z-index:1}
+.card-featured:hover{transform:translateY(-4px);box-shadow:0 8px 40px rgba(249,115,22,.15)}
+.card-featured .card-inner{display:grid;grid-template-columns:1fr 1fr;gap:0}
+.card-featured .card-content{padding:36px;display:flex;flex-direction:column;justify-content:center}
+.card-featured .card-visual{background:linear-gradient(135deg,rgba(249,115,22,.08),rgba(249,115,22,.02));display:flex;align-items:center;justify-content:center;padding:40px;position:relative;overflow:hidden}
+.card-featured .card-visual::before{content:'';position:absolute;inset:0;background:radial-gradient(circle at 60% 40%,rgba(249,115,22,.12),transparent 60%);pointer-events:none}
+.card-featured .card-visual-icon{font-size:80px;opacity:.15;filter:grayscale(1)}
+.card-featured .card-tag{background:rgba(249,115,22,.15);color:var(--or);border:1px solid rgba(249,115,22,.3)}
+.card-featured h3{font-size:24px;letter-spacing:-.5px}
+.card-featured .card-desc{font-size:15px;-webkit-line-clamp:4}
+.card-featured .card-bottom{font-size:13px}
+.card-featured .card-read-more{display:inline-flex;align-items:center;gap:6px;margin-top:16px;font-size:13px;font-weight:700;color:var(--or);text-decoration:none;transition:gap .2s}
+.card-featured:hover .card-read-more{gap:10px}
+
+/* REGULAR CARDS */
+.card{background:var(--card);border:1px solid var(--bor);border-radius:16px;padding:28px;display:flex;flex-direction:column;transition:transform .3s,box-shadow .3s,border-color .3s;text-decoration:none;color:inherit;position:relative;overflow:hidden}
+.card::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:linear-gradient(90deg,var(--or),var(--ob));opacity:0;transition:opacity .3s}
+.card:hover{transform:translateY(-4px);box-shadow:0 8px 40px rgba(249,115,22,.12);border-color:rgba(255,140,50,.35)}
+.card:hover::before{opacity:1}
+
+/* CARD ELEMENTS */
+.card-tag{display:inline-flex;align-items:center;font-size:10px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;padding:4px 10px;border-radius:100px;margin-bottom:16px;width:fit-content}
+.tag-ppc{background:rgba(96,165,250,.1);color:#60a5fa;border:1px solid rgba(96,165,250,.25)}
+.tag-supplements{background:rgba(52,211,153,.1);color:var(--gr);border:1px solid rgba(52,211,153,.25)}
+.tag-guide{background:rgba(251,191,36,.1);color:#fbbf24;border:1px solid rgba(251,191,36,.25)}
+.tag-data{background:rgba(244,114,182,.1);color:#f472b6;border:1px solid rgba(244,114,182,.25)}
+.tag-advertising{background:rgba(168,85,247,.1);color:#a855f7;border:1px solid rgba(168,85,247,.25)}
+.tag-analysis{background:rgba(251,146,60,.1);color:#fb923c;border:1px solid rgba(251,146,60,.25)}
+.tag-dsp{background:rgba(168,85,247,.1);color:#a855f7;border:1px solid rgba(168,85,247,.25)}
+.tag-listings{background:rgba(52,211,153,.1);color:var(--gr);border:1px solid rgba(52,211,153,.25)}
+.tag-brand{background:rgba(245,158,11,.1);color:#F59E0B;border:1px solid rgba(245,158,11,.25)}
+.tag-inventory{background:rgba(45,212,191,.1);color:#2DD4BF;border:1px solid rgba(45,212,191,.25)}
+.tag-launch{background:rgba(249,115,22,.1);color:var(--or);border:1px solid rgba(249,115,22,.25)}
+.tag-retention{background:rgba(52,211,153,.1);color:var(--gr);border:1px solid rgba(52,211,153,.25)}
+.tag-conversion{background:rgba(244,114,182,.1);color:#f472b6;border:1px solid rgba(244,114,182,.25)}
+.tag-industry{background:rgba(239,68,68,.1);color:#ef4444;border:1px solid rgba(239,68,68,.25)}
+
+.card h3{font-size:18px;font-weight:800;line-height:1.25;letter-spacing:-.3px;margin-bottom:10px;color:var(--wh)}
+.card-desc{font-size:13px;color:var(--mu);line-height:1.7;flex:1;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.card-bottom{display:flex;align-items:center;justify-content:space-between;margin-top:16px;padding-top:14px;border-top:1px solid var(--dim);font-size:12px;color:var(--mu);font-weight:500}
+.card-bottom span{display:flex;align-items:center;gap:4px}
+
+/* CTA */
+.cta-sec{text-align:center;padding:80px 32px;position:relative;overflow:hidden}
+.cta-sec::before{content:'';position:absolute;inset:0;background:radial-gradient(ellipse 60% 60% at 50% 50%,rgba(249,115,22,.1) 0%,transparent 70%);pointer-events:none}
+.cta-sec h2{font-size:clamp(28px,3.5vw,44px);font-weight:900;letter-spacing:-1.5px;line-height:1.08;margin-bottom:12px}
+.cta-sec h2 em{font-style:normal;color:var(--or)}
+.cta-sub{font-size:15px;color:var(--mu);margin-bottom:28px;max-width:440px;margin-left:auto;margin-right:auto}
+.btn-p{display:inline-flex;align-items:center;gap:8px;background:linear-gradient(135deg,#F97316,#c2410c);color:#fff;padding:14px 28px;border-radius:10px;font-size:15px;font-weight:700;text-decoration:none;box-shadow:0 4px 24px rgba(249,115,22,.45);transition:all .2s}
+.btn-p:hover{transform:translateY(-2px);box-shadow:0 8px 40px rgba(249,115,22,.6)}
+
+/* RESPONSIVE */
+@media(max-width:900px){
+  .grid{grid-template-columns:repeat(2,1fr)}
+  .card-featured .card-inner{grid-template-columns:1fr}
+  .card-featured .card-visual{min-height:160px}
+}
+@media(max-width:600px){
+  .grid{grid-template-columns:1fr}
+  .card-featured .card-content{padding:24px}
+  .card-featured h3{font-size:20px}
+}
+@media(max-width:480px){
+  .nav-links a:not(.nav-cta){display:none}
+}
+
+/* REVEAL */
+.reveal{opacity:0;transform:translateY(18px);transition:opacity .5s,transform .5s}
+.reveal.vis{opacity:1;transform:none}
+
+/* FOOTER */
+footer{border-top:1px solid var(--bor);background:var(--bg)}
+.fin{max-width:1280px;margin:0 auto;padding:48px 40px 28px}
+.fg{display:grid;grid-template-columns:2fr 1fr 1fr;gap:40px;margin-bottom:40px}
+.fd{font-size:13px;color:var(--mu);line-height:1.7;max-width:240px}
+.f-badge{display:inline-flex;align-items:center;gap:5px;margin-top:14px;padding:5px 12px;background:rgba(249,115,22,.15);border:1px solid rgba(249,115,22,.3);border-radius:6px;font-size:11px;font-weight:700;color:#FDBA74}
+.fct{font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;margin-bottom:12px}
+.fl{display:block;font-size:13px;color:var(--mu);margin-bottom:7px;text-decoration:none;transition:color .2s}
+.fl:hover{color:#fff}
+.fbot{border-top:1px solid var(--bor);padding-top:20px;display:flex;justify-content:space-between}
+.fc{font-size:12px;color:var(--mu)}
+.f-logo{display:flex;align-items:center;gap:9px;margin-bottom:10px;text-decoration:none}
+@media(max-width:700px){.fg{grid-template-columns:1fr 1fr;gap:24px}.fbot{flex-direction:column;gap:8px;text-align:center}}
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="nav-in">
+    <a href="/" class="logo">
+      <img src="/logos/csb-logo.jpg" alt="CSB Concepts" style="height:38px;border-radius:6px">
+    </a>
+    <div class="nav-links">
+      <a href="/case-studies">Case Studies</a>
+      <a href="/blog" class="active">Blog</a>
+      <a href="https://book.csbconcepts.com" class="nav-cta">Free Audit &#8594;</a>
+    </div>
+  </div>
+</nav>
+
+<!-- HERO -->
+<div class="hero">
+  <div class="hero-ey">AI + Amazon Insights</div>
+  <h1>Insights from the<br><em>AI frontier.</em></h1>
+  <p class="hero-sub">Expert strategies and data-driven insights on how AI is transforming Amazon growth -- from PPC optimization to full-funnel brand scaling.</p>
+</div>
+
+<!-- BLOG GRID -->
+<div class="blog-grid">
+  <div class="grid">
+
+    <!-- FEATURED: Pillar Guide -->
+    <a href="/blog/ai-amazon-brand-management-guide" class="card-featured reveal" style="text-decoration:none;color:inherit">
+      <div class="card-inner">
+        <div class="card-content">
+          <div class="card-tag" style="background:rgba(249,115,22,.15);color:var(--or);border:1px solid rgba(249,115,22,.3)">Pillar Guide</div>
+          <h3>The Complete Guide to AI-Powered Amazon Brand Management</h3>
+          <div class="card-desc">Everything you need to know about how artificial intelligence is transforming Amazon brand management &#8212; from PPC optimization to inventory forecasting.</div>
+          <div class="card-bottom">
+            <span>Mar 8, 2026</span>
+            <span>&#128337; 15 min read</span>
+          </div>
+          <span class="card-read-more">Read the full guide <span>&#8594;</span></span>
+        </div>
+        <div class="card-visual">
+          <div class="card-visual-icon">&#9670;</div>
+        </div>
+      </div>
+    </a>
+
+    <!-- Card 2 -->
+    <a href="/blog/ai-vs-traditional-amazon-ppc" class="card reveal">
+      <div class="card-tag tag-ppc">PPC Strategy</div>
+      <h3>AI vs Traditional Amazon PPC: Why Manual Management Is Dead</h3>
+      <div class="card-desc">Traditional Amazon PPC management can't compete with AI. Here's the data that proves it &#8212; and what it means for your brand.</div>
+      <div class="card-bottom">
+        <span>Mar 8, 2026</span>
+        <span>&#128337; 8 min read</span>
+      </div>
+    </a>
+
+    <!-- Card 3 -->
+    <a href="/blog/supplement-brands-ai-amazon" class="card reveal">
+      <div class="card-tag tag-supplements">Supplements</div>
+      <h3>Why Every Supplement Brand Needs AI on Amazon in 2026</h3>
+      <div class="card-desc">The supplement category on Amazon is more competitive than ever. AI isn't optional anymore &#8212; it's the difference between scaling and stagnating.</div>
+      <div class="card-bottom">
+        <span>Mar 8, 2026</span>
+        <span>&#128337; 7 min read</span>
+      </div>
+    </a>
+
+    <!-- Card 4 -->
+    <a href="/blog/how-to-choose-ai-amazon-agency" class="card reveal">
+      <div class="card-tag tag-guide">Guide</div>
+      <h3>How to Choose the Right AI Amazon Agency</h3>
+      <div class="card-desc">Not every agency that claims to use AI actually does. Here's what to look for &#8212; and the red flags that should make you walk away.</div>
+      <div class="card-bottom">
+        <span>Mar 8, 2026</span>
+        <span>&#128337; 9 min read</span>
+      </div>
+    </a>
+
+    <!-- Card 5 -->
+    <a href="/blog/amazon-roas-benchmarks-ai-vs-manual" class="card reveal">
+      <div class="card-tag tag-data">Data</div>
+      <h3>Amazon ROAS Benchmarks 2026: AI-Managed vs Manual Campaigns</h3>
+      <div class="card-desc">We analyzed 100+ Amazon brands across both AI-managed and manually-managed campaigns. The results weren't even close.</div>
+      <div class="card-bottom">
+        <span>Mar 8, 2026</span>
+        <span>&#128337; 6 min read</span>
+      </div>
+    </a>
+
+    <!-- Card 6 -->
+    <a href="/blog/ai-revolutionizing-amazon-advertising" class="card reveal">
+      <div class="card-tag tag-advertising">Advertising</div>
+      <h3>How AI is Revolutionizing Amazon Advertising</h3>
+      <div class="card-desc">From real-time bid optimization to predictive keyword targeting &#8212; AI is rewriting the rules of Amazon advertising.</div>
+      <div class="card-bottom">
+        <span>Mar 8, 2026</span>
+        <span>&#128337; 8 min read</span>
+      </div>
+    </a>
+
+    <!-- Card 7 -->
+    <a href="/blog/cost-of-not-using-ai-amazon" class="card reveal">
+      <div class="card-tag tag-analysis">Analysis</div>
+      <h3>The Real Cost of Not Using AI for Your Amazon Brand</h3>
+      <div class="card-desc">Every month without AI optimization is money left on the table. We break down exactly how much.</div>
+      <div class="card-bottom">
+        <span>Mar 8, 2026</span>
+        <span>&#128337; 7 min read</span>
+      </div>
+    </a>
+
+    <!-- WEEK 2 -->
+    <a href="/blog/amazon-ppc-dayparting-ai" class="card reveal">
+      <div class="card-tag tag-ppc">PPC Strategy</div>
+      <h3>Amazon PPC Dayparting: How AI Optimizes Your Bids by Time of Day</h3>
+      <div class="card-desc">Dayparting is one of the most powerful PPC strategies on Amazon — but only if you have AI to manage it at scale.</div>
+      <div class="card-bottom">
+        <span>Mar 12, 2026</span>
+        <span>&#128337; 7 min read</span>
+      </div>
+    </a>
+
+    <a href="/blog/ai-amazon-listing-optimization" class="card reveal">
+      <div class="card-tag tag-listings">Listings</div>
+      <h3>AI-Powered Amazon Listing Optimization: A Step-by-Step Breakdown</h3>
+      <div class="card-desc">From keyword research to A+ content — how AI transforms every element of your Amazon listings for maximum conversion.</div>
+      <div class="card-bottom">
+        <span>Mar 14, 2026</span>
+        <span>&#128337; 9 min read</span>
+      </div>
+    </a>
+
+    <a href="/blog/amazon-dsp-advertising-ai" class="card reveal">
+      <div class="card-tag tag-dsp">DSP</div>
+      <h3>Amazon DSP Advertising: Why AI Makes It Actually Profitable</h3>
+      <div class="card-desc">Amazon DSP is powerful but complex. AI is the difference between burning budget and building a profitable display strategy.</div>
+      <div class="card-bottom">
+        <span>Mar 16, 2026</span>
+        <span>&#128337; 8 min read</span>
+      </div>
+    </a>
+
+    <!-- WEEK 3 -->
+    <a href="/blog/amazon-brand-registry-ai-growth" class="card reveal">
+      <div class="card-tag tag-brand">Brand Strategy</div>
+      <h3>Amazon Brand Registry: The Foundation for AI-Powered Growth</h3>
+      <div class="card-desc">Brand Registry unlocks the exact tools that AI needs to scale your Amazon brand. Here's why it's non-negotiable.</div>
+      <div class="card-bottom">
+        <span>Mar 19, 2026</span>
+        <span>&#128337; 7 min read</span>
+      </div>
+    </a>
+
+    <a href="/blog/ai-prevents-amazon-stockouts" class="card reveal">
+      <div class="card-tag tag-inventory">Inventory</div>
+      <h3>How AI Prevents Amazon Stockouts Before They Happen</h3>
+      <div class="card-desc">A single stockout can destroy months of ranking progress. AI-powered forecasting predicts demand and prevents stockouts before they happen.</div>
+      <div class="card-bottom">
+        <span>Mar 21, 2026</span>
+        <span>&#128337; 7 min read</span>
+      </div>
+    </a>
+
+    <a href="/blog/best-amazon-advertising-strategy-new-products" class="card reveal">
+      <div class="card-tag tag-launch">Launch Strategy</div>
+      <h3>The Best Amazon Advertising Strategy for New Product Launches</h3>
+      <div class="card-desc">Your advertising strategy in the first 90 days determines long-term success. Here's the AI-powered launch playbook.</div>
+      <div class="card-bottom">
+        <span>Mar 23, 2026</span>
+        <span>&#128337; 9 min read</span>
+      </div>
+    </a>
+
+    <!-- WEEK 4 -->
+    <a href="/blog/amazon-subscribe-save-ai" class="card reveal">
+      <div class="card-tag tag-retention">Retention</div>
+      <h3>Amazon Subscribe & Save: How AI Maximizes Recurring Revenue</h3>
+      <div class="card-desc">Subscribe & Save is Amazon's most powerful retention tool. AI optimizes pricing, discount tiers, and subscriber acquisition.</div>
+      <div class="card-bottom">
+        <span>Mar 26, 2026</span>
+        <span>&#128337; 7 min read</span>
+      </div>
+    </a>
+
+    <a href="/blog/amazon-a-plus-content-converts" class="card reveal">
+      <div class="card-tag tag-conversion">Conversion</div>
+      <h3>Amazon A+ Content That Converts: What the Data Says</h3>
+      <div class="card-desc">A+ Content can boost conversions 3-10% — but only if done right. Here's what our data from 100+ brands reveals.</div>
+      <div class="card-bottom">
+        <span>Mar 28, 2026</span>
+        <span>&#128337; 8 min read</span>
+      </div>
+    </a>
+
+    <a href="/blog/why-amazon-agencies-fail" class="card reveal">
+      <div class="card-tag tag-industry">Industry</div>
+      <h3>Why Amazon Agencies Fail (And What AI Changes)</h3>
+      <div class="card-desc">Most Amazon agencies fail their clients. Here's why the traditional model is broken — and how AI changes everything.</div>
+      <div class="card-bottom">
+        <span>Mar 30, 2026</span>
+        <span>&#128337; 8 min read</span>
+      </div>
+    </a>
+
+  </div>
+</div>
+
+<!-- CTA -->
+<div class="cta-sec">
+  <h2>Ready to scale with <em>AI?</em></h2>
+  <p class="cta-sub">Get a free audit of your Amazon account and see what AI-powered management can do for your brand.</p>
+  <a href="https://book.csbconcepts.com" class="btn-p">Book Your Free Audit &#8594;</a>
+</div>
+
+<!-- FOOTER -->
+<footer>
+  <div class="fin">
+    <div class="fg">
+      <div>
+        <a href="/" class="f-logo">
+          <img src="/logos/csb-logo.jpg" alt="CSB Concepts" style="height:38px;border-radius:6px">
+        </a>
+        <div class="fd">The Amazon growth agency built for the AI era. 100+ supplement and consumer brands. Data-driven strategy + proprietary automation.</div>
+        <div class="f-badge">&#10022; Amazon Verified Ads Partner</div>
+      </div>
+      <div>
+        <div class="fct">Company</div>
+        <a href="/case-studies" class="fl">Case Studies</a>
+        <a href="/blog" class="fl">Blog</a>
+      </div>
+      <div>
+        <div class="fct">Get Started</div>
+        <a href="https://book.csbconcepts.com" class="fl">Free Audit Call</a>
+        <a href="mailto:admin@csbconcepts.com" class="fl">admin@csbconcepts.com</a>
+        <span class="fl" style="cursor:default">Fort Lauderdale, FL</span>
+      </div>
+    </div>
+    <div class="fbot">
+      <div class="fc">&copy; 2026 CSB Concepts LLC. All rights reserved.</div>
+      <div style="display:flex;gap:16px"><a href="/privacy" class="fl" style="margin:0">Privacy</a><a href="/terms" class="fl" style="margin:0">Terms</a><a href="/cookies" class="fl" style="margin:0">Cookies</a></div>
+    </div>
+  </div>
+</footer>
+
+<script>
+// Scroll reveal
+try{
+  const ob=new IntersectionObserver(entries=>entries.forEach(e=>{
+    if(e.isIntersecting){e.target.classList.add('vis');ob.unobserve(e.target);}
+  }),{threshold:.08});
+  document.querySelectorAll('.reveal').forEach(el=>ob.observe(el));
+}catch(e){}
+</script>
+
+</body>
+</html>
