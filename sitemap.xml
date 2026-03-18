@@ -187,6 +187,33 @@
     <priority>0.8</priority>
   </url>
 
+  <!-- Week 8 Articles -->
+  <url>
+    <loc>https://www.csbconcepts.com/blog/amazon-ppc-negative-keywords-ai</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/blog/amazon-seller-central-automation-ai</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/blog/amazon-brand-storytelling-ai</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/blog/amazon-data-analytics-ai</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/blog/amazon-private-label-vs-reseller-ai</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <!-- Individual Case Studies -->
   <url>
     <loc>https://www.csbconcepts.com/case-studies/supplement-brand-category-leader</loc>
