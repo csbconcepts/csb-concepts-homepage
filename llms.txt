@@ -1,0 +1,112 @@
+# CSB Concepts
+
+> CSB Concepts is an AI-powered Amazon growth agency based in Fort Lauderdale, FL. Founded by former Amazon brand owners, CSB combines operator experience with proprietary AI infrastructure to scale supplement, health, beauty, and consumer brands on Amazon. Amazon Verified Ads Partner managing 100+ active brands with $100M+ in portfolio revenue.
+
+## About
+
+CSB Concepts is not a traditional Amazon agency. The founders built and scaled their own supplement and consumer brands on Amazon before taking on clients. This operator-first approach means the team thinks like brand owners — understanding cash flow, margins, launch risk, and what a 4x ROAS actually means for the bottom line.
+
+The agency built proprietary AI infrastructure that powers every aspect of Amazon brand management: automated morning briefings delivered before 6 AM EST, real-time PPC bid optimization, AI-powered listing generation, inventory demand forecasting, competitor monitoring, and continuous account auditing. The AI tech stack includes Claude API, GPT-4o, n8n automation workflows, Slack integrations, Helium 10, and My Real Profit.
+
+- **Founded:** Fort Lauderdale, FL
+- **Legal entity:** CSB Concepts LLC
+- **Email:** admin@csbconcepts.com
+- **Website:** https://www.csbconcepts.com
+- **Booking:** https://book.csbconcepts.com
+- **Specialization:** Supplement, health, beauty, fitness, food, and consumer brands on Amazon
+- **Partnership:** Exclusive exit/brokerage partnership with Website Closers (representing sellers of tech and internet businesses since 1998)
+
+## Services
+
+- **AI-Powered Amazon PPC Management:** Real-time bid optimization using probability modeling, dynamic budget allocation on hourly conversion data, dayparting, negative keyword automation, and campaign restructuring. $5M+ in monthly ad spend managed.
+- **Amazon Listing Optimization:** Claude-powered listing engine (ListingIQ) generating high-converting copy from competitor data and keyword signals. Includes title, bullet points, backend search terms, and full keyword strategy.
+- **A+ Content and Storefront Design:** AI-assisted creative briefs trained on high-converting Amazon creative data across supplement and consumer categories.
+- **Amazon Brand Strategy:** Custom 90-day growth roadmaps with specific KPIs, campaign structures, and content upgrades. Ongoing weekly reporting and continuous iteration.
+- **Amazon Product Launch Strategy:** Full launch execution including listing creation, PPC launch campaigns, review generation, and rank acceleration. Proven track record of BSR Top 50 placements within 45 days.
+- **Inventory Forecasting:** Automated demand modeling that flags stock risks 6-8 weeks out based on velocity trends and ad spend patterns.
+- **Competitor Intelligence:** Continuous monitoring of competitor listings, pricing, and advertising with real-time alerts when category dynamics shift.
+- **Amazon FBA Reimbursements:** AI-powered auditing of FBA transactions to recover funds from lost inventory, damaged goods, overcharged fees, and missing inbound shipments. Performance-based pricing with zero upfront cost.
+- **AI Analytics and Reporting:** Automated daily CEO briefings, Mon/Wed/Fri Slack updates with real metrics, and dedicated client Slack channels.
+- **Exit Planning:** Every client gets a dedicated broker through the Website Closers partnership for brand valuation and exit representation.
+
+## Key Facts
+
+- **$100M+** portfolio revenue managed
+- **100+** active brands in the portfolio
+- **4.2x** average ROAS across clients
+- **97%** client retention rate
+- **+284%** average revenue growth
+- **+62%** average conversion rate lift
+- **$5M+** monthly ad spend managed
+- **$8M+** new revenue generated for clients
+- **2.3M+** units sold across portfolio
+- **4.9 out of 5** average client rating
+- **Amazon Verified Ads Partner**
+- **Helium 10 Power User**
+- **My Real Profit integrated**
+
+## Process
+
+1. **Deep-Dive Audit:** Full account analysis covering listings, PPC, inventory, BSR, competitors, and keyword gaps.
+2. **Custom Growth Plan:** 90-day roadmap with specific KPIs, campaign structures, and content upgrades.
+3. **AI-Powered Execution:** Listing optimization, PPC restructures, and A+ content backed by proprietary AI.
+4. **Optimize and Scale:** Weekly reporting, continuous iteration, and expansion into new opportunities month over month.
+
+## Dedicated Team Per Client
+
+Every client receives a full crew: Account Lead (strategy and growth), PPC Specialist (AI-assisted ad optimization), Listing Strategist (copy and keywords via ListingIQ), Inventory Analyst (automated stock forecasting), Creative Lead (A+ and Storefront), and CSB AI (24/7 monitoring).
+
+## Case Studies
+
+- [Supplement Brand: Stagnant Account to Category Leader](https://www.csbconcepts.com/case-studies/supplement-brand-category-leader) — Transformed a stagnant supplement brand into a category leader with +$340K new net profit per year and 284% organic revenue growth.
+- [Consumer Brand: $38K/mo to $100K/mo in 9 Months](https://www.csbconcepts.com/case-studies/consumer-brand-38k-to-100k) — Scaled a consumer brand from $38K/mo to $100K/mo using AI-powered Amazon PPC and brand strategy, reaching a $1.2M annual run rate.
+- [Beauty Brand: PPC Rebuild 1.6x to 4.1x ROAS in 60 Days](https://www.csbconcepts.com/case-studies/beauty-ppc-rebuild) — Rebuilt a skincare brand's Amazon PPC from 1.6x to 4.1x ROAS in 60 days by consolidating 87 campaigns to 14 high-performers.
+- [Health Brand: New Product Launch BSR Top 50 in 45 Days](https://www.csbconcepts.com/case-studies/health-product-launch) — Launched a health brand to BSR Top 50 in 45 days, going from zero reviews to 340+ reviews with +192% monthly revenue growth in 90 days.
+- [Fitness Brand: $500K/mo to $1M+/mo in 9 Months](https://www.csbconcepts.com/case-studies/fitness-brand-500k-to-1m) — Doubled a fitness supplement brand from $500K/mo to $1M+/mo using AI-powered Amazon advertising, DSP, and new product launches.
+- [Food Brand: Zero to $10K/mo in 90 Days](https://www.csbconcepts.com/case-studies/food-brand-zero-to-10k) — Launched a food brand on Amazon from absolute zero to $10K/mo in 90 days including account setup, listing creation, PPC launch, and 85+ reviews.
+
+## Blog
+
+- [AI vs Traditional Amazon PPC: Why Manual Campaign Management Is Dead](https://www.csbconcepts.com/blog/ai-vs-traditional-amazon-ppc)
+- [Amazon ROAS Benchmarks 2026: AI-Managed vs Manual Campaigns](https://www.csbconcepts.com/blog/amazon-roas-benchmarks-ai-vs-manual)
+- [The Complete Guide to AI-Powered Amazon Brand Management](https://www.csbconcepts.com/blog/ai-amazon-brand-management-guide)
+- [Why Every Supplement Brand Needs AI on Amazon](https://www.csbconcepts.com/blog/supplement-brands-ai-amazon)
+- [How AI is Revolutionizing Amazon Advertising](https://www.csbconcepts.com/blog/ai-revolutionizing-amazon-advertising)
+- [How to Choose the Right AI Amazon Agency](https://www.csbconcepts.com/blog/how-to-choose-ai-amazon-agency)
+- [The Real Cost of Not Using AI for Your Amazon Brand](https://www.csbconcepts.com/blog/cost-of-not-using-ai-amazon)
+- [Amazon PPC Dayparting: How AI Optimizes Bids by Time of Day](https://www.csbconcepts.com/blog/amazon-ppc-dayparting-ai)
+- [AI-Powered Amazon Listing Optimization: Step-by-Step Guide](https://www.csbconcepts.com/blog/ai-amazon-listing-optimization)
+- [The Best Amazon Advertising Strategy for New Product Launches](https://www.csbconcepts.com/blog/best-amazon-advertising-strategy-new-products)
+- [How AI Prevents Amazon Stockouts Before They Happen](https://www.csbconcepts.com/blog/ai-prevents-amazon-stockouts)
+- [Amazon Brand Registry: The Foundation for AI-Powered Growth](https://www.csbconcepts.com/blog/amazon-brand-registry-ai-growth)
+- [Amazon DSP Advertising: Why AI Makes It Actually Profitable](https://www.csbconcepts.com/blog/amazon-dsp-advertising-ai)
+- [Amazon Subscribe and Save: How AI Maximizes Recurring Revenue](https://www.csbconcepts.com/blog/amazon-subscribe-save-ai)
+- [Amazon A+ Content That Converts: What the Data Actually Says](https://www.csbconcepts.com/blog/amazon-a-plus-content-converts)
+- [Why Amazon Agencies Fail and What AI Changes About Everything](https://www.csbconcepts.com/blog/why-amazon-agencies-fail)
+- [How AI-Powered Competitor Analysis Gives Amazon Brands an Unfair Advantage](https://www.csbconcepts.com/blog/amazon-competitor-analysis-ai)
+- [AI Keyword Research for Amazon: Finding High-Converting Search Terms](https://www.csbconcepts.com/blog/amazon-keyword-research-ai)
+- [Protecting Amazon Profit Margins: How AI Optimizes TACoS and Unit Economics](https://www.csbconcepts.com/blog/amazon-profit-margins-ai)
+- [Amazon Review Strategy: How AI Helps Brands Build Social Proof](https://www.csbconcepts.com/blog/amazon-review-strategy-ai)
+- [Amazon Seasonal Strategy: How AI Prepares for Prime Day, Q4, and Beyond](https://www.csbconcepts.com/blog/amazon-seasonal-strategy-ai)
+- [Amazon FBA Fee Optimization: How AI Saves Brands Thousands](https://www.csbconcepts.com/blog/amazon-fba-fee-optimization-ai)
+- [Scaling Amazon PPC Budgets Without Killing ROAS: The AI Playbook](https://www.csbconcepts.com/blog/amazon-ppc-budget-scaling-ai)
+- [Amazon Brand Defense: How AI Protects from Hijackers and Counterfeiters](https://www.csbconcepts.com/blog/amazon-brand-defense-ai)
+- [Amazon International Expansion: How AI Helps Brands Scale Globally](https://www.csbconcepts.com/blog/amazon-international-expansion-ai)
+- [The Ultimate Amazon Product Launch Checklist: AI-Powered Steps](https://www.csbconcepts.com/blog/amazon-product-launch-checklist-ai)
+- [Cracking Amazon's A10 Search Algorithm: How AI Reverse-Engineers Rankings](https://www.csbconcepts.com/blog/amazon-search-rank-algorithm-ai)
+- [Amazon Sponsored Brands Video: The Untapped Ad Format AI Makes Profitable](https://www.csbconcepts.com/blog/amazon-sponsored-brands-video-ai)
+- [How to Audit Your Amazon Advertising Account: The Complete Guide](https://www.csbconcepts.com/blog/amazon-advertising-audit-guide)
+- [Amazon Catalog Management at Scale: How AI Keeps Hundreds of SKUs Optimized](https://www.csbconcepts.com/blog/amazon-catalog-management-ai)
+- [Amazon Attribution and External Traffic: The AI Strategy](https://www.csbconcepts.com/blog/amazon-attribution-external-traffic)
+- [Amazon Seller Central Automation: 10 Tasks AI Handles Better Than Humans](https://www.csbconcepts.com/blog/amazon-seller-central-automation-ai)
+- [Amazon PPC Negative Keywords: How AI Eliminates Wasted Ad Spend](https://www.csbconcepts.com/blog/amazon-ppc-negative-keywords-ai)
+- [Amazon Brand Storytelling: How AI Helps Build a Brand That Sells](https://www.csbconcepts.com/blog/amazon-brand-storytelling-ai)
+- [Amazon Data Analytics: How AI Turns Raw Data Into Revenue](https://www.csbconcepts.com/blog/amazon-data-analytics-ai)
+- [Amazon Private Label vs Reseller: Which Model Benefits Most from AI?](https://www.csbconcepts.com/blog/amazon-private-label-vs-reseller-ai)
+
+## Contact
+
+- **Website:** https://www.csbconcepts.com
+- **Book a free audit:** https://book.csbconcepts.com
+- **Email:** admin@csbconcepts.com
+- **Location:** Fort Lauderdale, FL
