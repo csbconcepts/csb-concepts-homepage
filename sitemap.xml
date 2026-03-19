@@ -246,6 +246,28 @@
     <priority>0.85</priority>
   </url>
 
+  <!-- Week 9 Articles -->
+  <url>
+    <loc>https://www.csbconcepts.com/blog/amazon-multi-channel-ai</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/blog/amazon-brand-analytics-ai</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/blog/amazon-ai-agency-vs-tools</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/blog/amazon-ai-bid-optimization</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <!-- LLM Optimization Pages -->
   <url>
     <loc>https://www.csbconcepts.com/compare</loc>

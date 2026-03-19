@@ -48,6 +48,10 @@
     { "source": "/case-studies/health-product-launch", "destination": "/case-studies/health-product-launch.html" },
     { "source": "/case-studies/fitness-brand-500k-to-1m", "destination": "/case-studies/fitness-brand-500k-to-1m.html" },
     { "source": "/case-studies/food-brand-zero-to-10k", "destination": "/case-studies/food-brand-zero-to-10k.html" },
+    { "source": "/blog/amazon-multi-channel-ai", "destination": "/blog/amazon-multi-channel-ai.html" },
+    { "source": "/blog/amazon-brand-analytics-ai", "destination": "/blog/amazon-brand-analytics-ai.html" },
+    { "source": "/blog/amazon-ai-agency-vs-tools", "destination": "/blog/amazon-ai-agency-vs-tools.html" },
+    { "source": "/blog/amazon-ai-bid-optimization", "destination": "/blog/amazon-ai-bid-optimization.html" },
     { "source": "/compare", "destination": "/compare.html" },
     { "source": "/amazon-ai-benchmarks", "destination": "/amazon-ai-benchmarks.html" },
     { "source": "/booking", "destination": "https://book.csbconcepts.com" }
