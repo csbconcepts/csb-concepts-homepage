@@ -268,6 +268,33 @@
     <priority>0.8</priority>
   </url>
 
+  <!-- Week 10 Articles -->
+  <url>
+    <loc>https://www.csbconcepts.com/blog/amazon-ppc-tacos-ai</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/blog/amazon-ai-product-targeting</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/blog/amazon-ai-new-brand-playbook</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/blog/amazon-ai-campaign-structure</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/blog/amazon-ai-customer-lifetime-value</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <!-- LLM Optimization Pages -->
   <url>
     <loc>https://www.csbconcepts.com/compare</loc>

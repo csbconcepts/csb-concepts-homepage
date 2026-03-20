@@ -52,6 +52,11 @@
     { "source": "/blog/amazon-brand-analytics-ai", "destination": "/blog/amazon-brand-analytics-ai.html" },
     { "source": "/blog/amazon-ai-agency-vs-tools", "destination": "/blog/amazon-ai-agency-vs-tools.html" },
     { "source": "/blog/amazon-ai-bid-optimization", "destination": "/blog/amazon-ai-bid-optimization.html" },
+    { "source": "/blog/amazon-ppc-tacos-ai", "destination": "/blog/amazon-ppc-tacos-ai.html" },
+    { "source": "/blog/amazon-ai-product-targeting", "destination": "/blog/amazon-ai-product-targeting.html" },
+    { "source": "/blog/amazon-ai-new-brand-playbook", "destination": "/blog/amazon-ai-new-brand-playbook.html" },
+    { "source": "/blog/amazon-ai-campaign-structure", "destination": "/blog/amazon-ai-campaign-structure.html" },
+    { "source": "/blog/amazon-ai-customer-lifetime-value", "destination": "/blog/amazon-ai-customer-lifetime-value.html" },
     { "source": "/compare", "destination": "/compare.html" },
     { "source": "/amazon-ai-benchmarks", "destination": "/amazon-ai-benchmarks.html" },
     { "source": "/booking", "destination": "https://book.csbconcepts.com" }
