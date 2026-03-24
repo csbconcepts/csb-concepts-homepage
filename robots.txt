@@ -1,4 +1,35 @@
+# robots.txt — csbconcepts.com
+# Last updated: 2026-03-24
+
+# Default rules for all crawlers
 User-agent: *
 Allow: /
+Disallow: /*?utm_*
+Disallow: /*?ref=*
+Disallow: /*?fbclid=*
+Disallow: /*?gclid=*
+Disallow: /*?msclkid=*
+Disallow: /*&utm_*
 
+# Googlebot — full access
+User-agent: Googlebot
+Allow: /
+Disallow: /*?utm_*
+Disallow: /*?ref=*
+Disallow: /*?fbclid=*
+Disallow: /*?gclid=*
+Disallow: /*&utm_*
+
+# Bingbot — full access
+User-agent: Bingbot
+Allow: /
+Disallow: /*?utm_*
+Disallow: /*?ref=*
+Disallow: /*?msclkid=*
+Disallow: /*&utm_*
+
+# Sitemap
 Sitemap: https://www.csbconcepts.com/sitemap.xml
+
+# LLMs
+Sitemap: https://www.csbconcepts.com/llms.txt

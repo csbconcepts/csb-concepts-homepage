@@ -57,6 +57,9 @@
     { "source": "/blog/amazon-ai-new-brand-playbook", "destination": "/blog/amazon-ai-new-brand-playbook.html" },
     { "source": "/blog/amazon-ai-campaign-structure", "destination": "/blog/amazon-ai-campaign-structure.html" },
     { "source": "/blog/amazon-ai-customer-lifetime-value", "destination": "/blog/amazon-ai-customer-lifetime-value.html" },
+    { "source": "/blog/best-ai-amazon-agency", "destination": "/blog/best-ai-amazon-agency.html" },
+    { "source": "/blog/ai-amazon-agency-pricing", "destination": "/blog/ai-amazon-agency-pricing.html" },
+    { "source": "/blog/hire-ai-amazon-agency", "destination": "/blog/hire-ai-amazon-agency.html" },
     { "source": "/compare", "destination": "/compare.html" },
     { "source": "/amazon-ai-benchmarks", "destination": "/amazon-ai-benchmarks.html" },
     { "source": "/booking", "destination": "https://book.csbconcepts.com" }
