@@ -260,6 +260,22 @@ nav{position:fixed;top:0;left:0;right:0;z-index:300;background:rgba(11,13,20,0.9
 .nav-cta:hover{transform:translateY(-1px)!important;box-shadow:0 6px 28px rgba(249,115,22,0.6)!important}
 @media(max-width:640px){.nav-links a:not(.nav-cta){display:none}.nav-in{padding:0 20px}}
 
+/* ─── INDUSTRIES ─── */
+.ind-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:20px;margin-top:40px}
+.ind-card{background:var(--card);border:1px solid var(--bor);border-radius:14px;padding:28px 22px;text-align:center;transition:all .22s;text-decoration:none;color:inherit;display:block}
+.ind-card:hover{transform:translateY(-4px);border-color:rgba(255,140,50,.4);box-shadow:0 12px 32px rgba(249,115,22,.12)}
+.ind-icon{font-size:36px;margin-bottom:14px}
+.ind-name{font-size:16px;font-weight:700;color:var(--wh);margin-bottom:6px}
+.ind-desc{font-size:12px;color:var(--mu);line-height:1.5}
+.ind-arrow{display:inline-block;margin-top:12px;font-size:12px;font-weight:700;color:var(--or);letter-spacing:.04em}
+@media(max-width:900px){.ind-grid{grid-template-columns:repeat(3,1fr)}}
+@media(max-width:560px){.ind-grid{grid-template-columns:repeat(2,1fr)}}
+.results-banner{background:var(--card);border:1px solid var(--bor);border-radius:12px;padding:20px 32px;display:flex;align-items:center;justify-content:space-between;margin-top:32px;flex-wrap:wrap;gap:16px}
+.results-banner-txt{font-size:15px;font-weight:600;color:var(--wh)}
+.results-banner-txt span{color:var(--or)}
+.results-banner a{background:linear-gradient(135deg,#F97316,#c2410c);color:#fff;padding:10px 24px;border-radius:8px;font-size:13px;font-weight:700;text-decoration:none;transition:all .2s;box-shadow:0 0 18px var(--pg)}
+.results-banner a:hover{transform:translateY(-1px);box-shadow:0 6px 28px rgba(249,115,22,0.6)}
+
 /* ─── HERO ─── */
 .hero{position:relative;min-height:100vh;display:flex;flex-direction:column;overflow:hidden;padding-top:62px;
   background:radial-gradient(ellipse 110% 85% at 60% 25%, rgba(249,115,22,0.25) 0%, rgba(11,13,20,0.75) 40%, var(--bg) 75%), radial-gradient(ellipse 60% 40% at 85% 60%, rgba(249,115,22,0.12) 0%, transparent 70%)}
@@ -745,11 +761,12 @@ footer{border-top:1px solid var(--bor);background:var(--bg)}
 <!-- ─── NAV ─── -->
 <nav>
   <div class="nav-in">
-    <a href="/" class="logo"><img src="logos/csb-logo.jpg" alt="CSB Concepts" style="height:38px;border-radius:6px"></a>
+    <a href="/" class="logo"><img src="/logos/csb-logo.jpg" alt="CSB Concepts" style="height:38px;border-radius:6px"></a>
     <div class="nav-links">
+      <a href="/results">Results</a>
       <a href="/case-studies">Case Studies</a>
       <a href="/blog">Blog</a>
-      <a href="https://book.csbconcepts.com" class="nav-cta">Free Audit →</a>
+      <a href="https://book.csbconcepts.com" class="nav-cta">Free Audit &rarr;</a>
     </div>
   </div>
 </nav>
@@ -888,6 +905,51 @@ footer{border-top:1px solid var(--bor);background:var(--bg)}
     <div class="si"><div class="sn">97<span class="g">%</span></div><div class="sl">Client Retention</div></div>
     <div class="si"><div class="sn" style="color:var(--or)">$100M+</div><div class="sl">Portfolio Revenue Managed</div></div>
   </div>
+</div>
+
+<!-- ─── INDUSTRIES WE SERVE ─── -->
+<div style="background:var(--bg2);border-top:1px solid var(--bor)">
+<div class="sec reveal">
+  <div class="ey">Industries We Serve</div>
+  <h2 class="sh">Amazon growth for <span class="hi">every vertical.</span></h2>
+  <p class="sp">We specialize in the categories that matter most on Amazon. Each vertical gets a dedicated strategy built around its unique ranking factors, compliance rules, and buyer behavior.</p>
+  <div class="ind-grid">
+    <a href="/supplements" class="ind-card">
+      <div class="ind-icon">&#x1F48A;</div>
+      <div class="ind-name">Supplements</div>
+      <div class="ind-desc">Vitamins, protein, wellness — scaled with compliant PPC and optimized listings.</div>
+      <div class="ind-arrow">Learn more &rarr;</div>
+    </a>
+    <a href="/beauty" class="ind-card">
+      <div class="ind-icon">&#x2728;</div>
+      <div class="ind-name">Beauty &amp; Skincare</div>
+      <div class="ind-desc">Skincare, cosmetics, and personal care brands built for premium positioning.</div>
+      <div class="ind-arrow">Learn more &rarr;</div>
+    </a>
+    <a href="/health" class="ind-card">
+      <div class="ind-icon">&#x1F3E5;</div>
+      <div class="ind-name">Health &amp; Wellness</div>
+      <div class="ind-desc">Medical devices, wellness products, and health brands grown with precision.</div>
+      <div class="ind-arrow">Learn more &rarr;</div>
+    </a>
+    <a href="/fitness" class="ind-card">
+      <div class="ind-icon">&#x1F3CB;&#xFE0F;</div>
+      <div class="ind-name">Fitness &amp; Performance</div>
+      <div class="ind-desc">Gym gear, performance nutrition, and active lifestyle brands at scale.</div>
+      <div class="ind-arrow">Learn more &rarr;</div>
+    </a>
+    <a href="/food" class="ind-card">
+      <div class="ind-icon">&#x1F34E;</div>
+      <div class="ind-name">Food &amp; Beverage</div>
+      <div class="ind-desc">Snacks, drinks, and specialty food brands optimized for Subscribe &amp; Save.</div>
+      <div class="ind-arrow">Learn more &rarr;</div>
+    </a>
+  </div>
+  <div class="results-banner">
+    <div class="results-banner-txt">See real numbers: <span>4.2x avg ROAS</span>, <span>284% revenue growth</span>, <span>97% retention</span></div>
+    <a href="/results">View All Results &rarr;</a>
+  </div>
+</div>
 </div>
 
 <!-- ─── AI CINEMATIC SECTION ─── -->
@@ -1292,6 +1354,8 @@ footer{border-top:1px solid var(--bor);background:var(--bg)}
       </div>
       <div>
         <div class="fct">Company</div>
+        <a href="/about" class="fl">About</a>
+        <a href="/results" class="fl">Results</a>
         <a href="/case-studies" class="fl">Case Studies</a>
         <a href="/blog" class="fl">Blog</a>
       </div>
