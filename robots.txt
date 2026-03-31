@@ -33,3 +33,4 @@ Sitemap: https://www.csbconcepts.com/sitemap.xml
 
 # LLMs
 Sitemap: https://www.csbconcepts.com/llms.txt
+Sitemap: https://www.csbconcepts.com/llms-full.txt
