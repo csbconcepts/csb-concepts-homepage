@@ -80,7 +80,14 @@
     { "source": "/blog/amazon-account-health-ai", "destination": "/blog/amazon-account-health-ai.html" },
     { "source": "/compare", "destination": "/compare.html" },
     { "source": "/amazon-ai-benchmarks", "destination": "/amazon-ai-benchmarks.html" },
-    { "source": "/booking", "destination": "https://book.csbconcepts.com" }
+    { "source": "/booking", "destination": "https://book.csbconcepts.com" },
+    { "source": "/blog/ai-analytics-amazon-products", "destination": "/blog/ai-analytics-amazon-products.html" },
+    { "source": "/blog/amazon-rufus-ai-shopping-assistant", "destination": "/blog/amazon-rufus-ai-shopping-assistant.html" },
+    { "source": "/blog/amazon-aeo-answer-engine-optimization", "destination": "/blog/amazon-aeo-answer-engine-optimization.html" },
+    { "source": "/blog/chatgpt-amazon-product-research", "destination": "/blog/chatgpt-amazon-product-research.html" },
+    { "source": "/blog/perplexity-amazon-visibility", "destination": "/blog/perplexity-amazon-visibility.html" },
+    { "source": "/blog/amazon-conversion-modeling-google-ads", "destination": "/blog/amazon-conversion-modeling-google-ads.html" },
+    { "source": "/blog/ai-search-impact-amazon-sellers", "destination": "/blog/ai-search-impact-amazon-sellers.html" }
   ],
   "redirects": [
     { "source": "/case-studies.html", "destination": "/case-studies", "permanent": true },

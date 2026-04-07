@@ -126,6 +126,13 @@ Every client receives a full crew: Account Lead (strategy and growth), PPC Speci
 - [Amazon Posts: How AI Turns Social-Style Content Into Sales](https://www.csbconcepts.com/blog/amazon-posts-social-ai)
 - [Amazon Demand Forecasting: How AI Predicts Sales 90 Days Out](https://www.csbconcepts.com/blog/amazon-demand-forecasting-ai)
 - [Amazon Account Health: How AI Monitors and Protects Your Seller Account 24/7](https://www.csbconcepts.com/blog/amazon-account-health-ai)
+- [AI Analytics for Amazon Products: The Complete 2026 Guide](https://www.csbconcepts.com/blog/ai-analytics-amazon-products)
+- [Amazon Rufus: How to Optimize Your Listings for Amazon's AI Shopping Assistant](https://www.csbconcepts.com/blog/amazon-rufus-ai-shopping-assistant)
+- [Amazon AEO: Answer Engine Optimization for ChatGPT, Perplexity & Gemini](https://www.csbconcepts.com/blog/amazon-aeo-answer-engine-optimization)
+- [ChatGPT Is Replacing Google for Amazon Product Research](https://www.csbconcepts.com/blog/chatgpt-amazon-product-research)
+- [How to Get Your Amazon Brand Cited by Perplexity in 2026](https://www.csbconcepts.com/blog/perplexity-amazon-visibility)
+- [Conversion Modeling for Amazon Sellers: Bridging Google Ads and Amazon Sales](https://www.csbconcepts.com/blog/amazon-conversion-modeling-google-ads)
+- [The Impact of AI Search on Amazon Sellers: What's Already Changed and What's Next](https://www.csbconcepts.com/blog/ai-search-impact-amazon-sellers)
 
 ## Frequently Asked Questions
 
