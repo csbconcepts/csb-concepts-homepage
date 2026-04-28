@@ -88,7 +88,17 @@
     { "source": "/blog/chatgpt-amazon-product-research", "destination": "/blog/chatgpt-amazon-product-research.html" },
     { "source": "/blog/perplexity-amazon-visibility", "destination": "/blog/perplexity-amazon-visibility.html" },
     { "source": "/blog/amazon-conversion-modeling-google-ads", "destination": "/blog/amazon-conversion-modeling-google-ads.html" },
-    { "source": "/blog/ai-search-impact-amazon-sellers", "destination": "/blog/ai-search-impact-amazon-sellers.html" }
+    { "source": "/blog/ai-search-impact-amazon-sellers", "destination": "/blog/ai-search-impact-amazon-sellers.html" },
+    { "source": "/blog/amazon-pet-brands-ai-strategy", "destination": "/blog/amazon-pet-brands-ai-strategy.html" },
+    { "source": "/blog/amazon-outdoor-sporting-goods-ai", "destination": "/blog/amazon-outdoor-sporting-goods-ai.html" },
+    { "source": "/blog/amazon-home-kitchen-ai-strategy", "destination": "/blog/amazon-home-kitchen-ai-strategy.html" },
+    { "source": "/blog/amazon-electronics-ai-strategy", "destination": "/blog/amazon-electronics-ai-strategy.html" },
+    { "source": "/blog/amazon-black-friday-cyber-monday-2026", "destination": "/blog/amazon-black-friday-cyber-monday-2026.html" },
+    { "source": "/blog/amazon-prime-day-2026-ai", "destination": "/blog/amazon-prime-day-2026-ai.html" },
+    { "source": "/blog/amazon-rufus-conversation-optimization", "destination": "/blog/amazon-rufus-conversation-optimization.html" },
+    { "source": "/blog/amazon-ai-shopping-assistants-2026", "destination": "/blog/amazon-ai-shopping-assistants-2026.html" },
+    { "source": "/blog/amazon-multi-channel-fulfillment-ai", "destination": "/blog/amazon-multi-channel-fulfillment-ai.html" },
+    { "source": "/blog/amazon-fba-fbm-unit-economics-ai", "destination": "/blog/amazon-fba-fbm-unit-economics-ai.html" }
   ],
   "redirects": [
     { "source": "/case-studies.html", "destination": "/case-studies", "permanent": true },

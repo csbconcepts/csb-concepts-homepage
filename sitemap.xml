@@ -472,4 +472,56 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
+  <!-- April 28, 2026 — Niche verticals + Q4/Prime Day + Rufus depth + Operations -->
+  <url>
+    <loc>https://www.csbconcepts.com/blog/amazon-pet-brands-ai-strategy</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/blog/amazon-outdoor-sporting-goods-ai</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/blog/amazon-home-kitchen-ai-strategy</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/blog/amazon-electronics-ai-strategy</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/blog/amazon-black-friday-cyber-monday-2026</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/blog/amazon-prime-day-2026-ai</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/blog/amazon-rufus-conversation-optimization</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/blog/amazon-ai-shopping-assistants-2026</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/blog/amazon-multi-channel-fulfillment-ai</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.csbconcepts.com/blog/amazon-fba-fbm-unit-economics-ai</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
 </urlset>
