@@ -4,6 +4,8 @@
 # Default rules for all crawlers
 User-agent: *
 Allow: /
+Disallow: /tiktok
+Disallow: /tiktok.html
 Disallow: /*?utm_*
 Disallow: /*?ref=*
 Disallow: /*?fbclid=*
@@ -14,6 +16,8 @@ Disallow: /*&utm_*
 # Googlebot — full access
 User-agent: Googlebot
 Allow: /
+Disallow: /tiktok
+Disallow: /tiktok.html
 Disallow: /*?utm_*
 Disallow: /*?ref=*
 Disallow: /*?fbclid=*
@@ -23,6 +27,8 @@ Disallow: /*&utm_*
 # Bingbot — full access
 User-agent: Bingbot
 Allow: /
+Disallow: /tiktok
+Disallow: /tiktok.html
 Disallow: /*?utm_*
 Disallow: /*?ref=*
 Disallow: /*?msclkid=*

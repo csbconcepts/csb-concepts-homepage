@@ -81,6 +81,7 @@
     { "source": "/compare", "destination": "/compare.html" },
     { "source": "/amazon-ai-benchmarks", "destination": "/amazon-ai-benchmarks.html" },
     { "source": "/booking", "destination": "https://book.csbconcepts.com" },
+    { "source": "/tiktok", "destination": "/tiktok.html" },
     { "source": "/blog/ai-analytics-amazon-products", "destination": "/blog/ai-analytics-amazon-products.html" },
     { "source": "/blog/amazon-rufus-ai-shopping-assistant", "destination": "/blog/amazon-rufus-ai-shopping-assistant.html" },
     { "source": "/blog/amazon-aeo-answer-engine-optimization", "destination": "/blog/amazon-aeo-answer-engine-optimization.html" },
